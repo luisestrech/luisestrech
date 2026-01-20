@@ -12,7 +12,7 @@ ___
 ### **Lenguajes de programación**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E)
+![JavaScript](https://www.flaticon.es/icono-gratis/js_5968292?term=logotipo+de+javascript&page=1&position=3&origin=tag&related_id=5968292)
 ![PHP](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=php&logoColor=%23777BB4)
 ![C#](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=C%23&logoColor=%2300599C)
 
