@@ -4,7 +4,7 @@
 ___
 ### **EDUCACIÓN**
 #### Tecnico En Programación
-Centro de Bachillerato Tecnológico industrial y de servicios No. 168. -- 09/2021 - 07/2021
+Centro de Bachillerato Tecnológico industrial y de servicios No. 168. -- 09/2021 - 07/2024
 #### Ingeniería en Tecnologías de la Información y Comunicaciones
 Instituto Tecnologico de Aguascalientes -- 08/2024 - Presente
 ___
